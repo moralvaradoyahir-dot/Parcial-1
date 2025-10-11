@@ -1,48 +1,7 @@
-body {
-  font-family: Arial, sans-serif;
-  background: linear-gradient(135deg, #9c27b0, #2196f3);
-  color: #A52A2A;
-  text-align: left;
-  height: 100vh;
-  margin: 0;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  padding: 20px;
-}
-
-.container {
-  background: rgba(0, 191, 255, 0.25);
-  padding: 30px;
-  border-radius: 20px;
-  width: 90%;
-  max-width: 500px;
-  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.3);
-  color: white;
-  text-align: center;
-}
-
-h1 {
-  margin-bottom: 20px;
-  font-size: 25px;
-}
-
-#quote {
-  font-size: 23px;
-  margin: 20px 0;
-  min-height: 60px;
-}
-
-button {
-  background: #ffeb3b;
-  border: none;
-  padding: 12px 20px;
-  font-size: 18px;
-  border-radius: 15px;
-  cursor: pointer;
-  transition: 0.3s;
-}
-
-button:hover {
-  background: #ffb300;
-}
+body{
+ background-color:
+ red;
+  color:white;
+  font-family:Arial,
+  sans-serif;
+  {
